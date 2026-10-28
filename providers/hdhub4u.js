@@ -18,7 +18,7 @@ var UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 '
 
 // Only used when the domains list itself can't be reached; the live domain
 // always comes from DOMAINS_URL.
-var FALLBACK = 'https://new5.hdhub4u.cl';
+var FALLBACK = 'https://new9.hdhub4u.cl';
 
 var _dom = null;
 function _domains() {
